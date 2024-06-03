@@ -89,10 +89,11 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 26. MISCELLANEOUS
 
-27. CONTACT US
+27. CONTACT US.
 
-  
-  
+
+
+
 
 1. **OUR SERVICES**
 
