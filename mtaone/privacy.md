@@ -18,7 +18,7 @@ This privacy notice for PT Flagodna Developer Labs ("**we**," "**us**," or "**
 **SUMMARY OF KEY POINTS**
 
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our[**_table of contents_**](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#toc)**_ below to find the section you are looking for.
+This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our Table of contents  below to find the section you are looking for.
 
   
 
@@ -34,19 +34,19 @@ This privacy notice for PT Flagodna Developer Labs ("**we**," "**us**," or "**
 
   
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more aboutÂ [how we process your information](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#infouse).
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#infouse).
 
   
 
-**In what situations and with which types of parties do we share personal information?** We may share information in specific situations and with specific categories of third parties. Learn more aboutÂ [when and with whom we share your personal information](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#whoshare).
+**In what situations and with which types of parties do we share personal information?** We may share information in specific situations and with specific categories of third parties. Learn more about [when and with whom we share your personal information](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#whoshare).
 
   
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more aboutÂ [how we keep your information safe](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#infosafe).
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#infosafe).
 
   
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more aboutÂ [your privacy rights](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#privacyrights).
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#privacyrights).
 
   
 
@@ -106,7 +106,7 @@ Want to learn more about what we do with any information we collect? [Review th
 
   
 
-**_In Short:_** _We collect personal information that you provide to us._
+**In Short:** We collect personal information that you provide to us._
 
   
 
@@ -136,7 +136,7 @@ We collect personal information that you voluntarily provide to us when you reg
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
-- _Mobile Device Data._ We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile deviceâ€™s operating system or platform, the type of mobile device you use, your mobile deviceâ€™s unique device ID, and information about the features of our application(s) you accessed.
+- _Mobile Device Data._ We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device's operating system or platform, the type of mobile device you use, your mobile device's unique device ID, and information about the features of our application(s) you accessed.
 
 - _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
@@ -151,7 +151,7 @@ All personal information that you provide to us must be true, complete, and accu
 **Information automatically collected**
 
 
-**_In Short:_** _Some information ” such as your Internet Protocol (IP) address and/or browser and device characteristics ” is collected automatically when you visit our Services._
+**In Short:** Some information ” such as your Internet Protocol (IP) address and/or browser and device characteristics ” is collected automatically when you visit our Services.
 
   
 
@@ -165,7 +165,7 @@ Like many businesses, we also collect information through cookies and similar te
 
 The information we collect includes:
 
-- _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the ServicesÂ (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
+- _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
 
 - _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
@@ -177,7 +177,7 @@ The information we collect includes:
 
   
 
-**_In Short:_** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
+**_In Short:_** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
   
 
@@ -205,7 +205,7 @@ The information we collect includes:
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more aboutÂ [withdrawing your consent](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#withdrawconsent).
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](https://app.onecompiler.com/42euyjzqu_42f4frzu2/#withdrawconsent).
 
 - **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
 
@@ -256,7 +256,7 @@ We also may need to share your personal information in the following situation
 
   
 
-**_In Short:_** We may use cookies and other tracking technologies to collect and store your information._
+**_In Short:_** We may use cookies and other tracking technologies to collect and store your information.
 
   
 
@@ -284,7 +284,7 @@ We may share your information with Google Analytics to track and analyze the u
 
   
 
-**_In Short:_** _If you choose to register or log in to our Services using a social media account, we may have access to certain information about you._
+**_In Short:_** If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
 
   
 
