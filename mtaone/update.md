@@ -21,7 +21,12 @@
 - Lorem Ipsum, Drag and dropDrag and dropDrag and drop
 - Lorem Ipsum, Drag and dropDrag and dropDrag and drop
 
+
 ---
+$$
+x2 + 40 = 30
+$$
+``
 
 | code | saran dari              |
 | ---- | ----------------------- |
@@ -36,6 +41,7 @@
 | #242 | Lorem Ipsum             |
 | #242 | Lorem Ipsum Lorem Ipsum |
 
+``
 
 > Perbaikan akan dilakukan secara bertahap, dan menjadi Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
 
