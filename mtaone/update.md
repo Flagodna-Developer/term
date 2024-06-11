@@ -16,25 +16,7 @@ above is hr
 
 
 `this is inline code`
-
-\`\`\`javascript
-import React from 'react';
-import { Text, View } from 'react-native';
-
-const MyComponent = () => {
-  return (
-    <View>
-      <Text>Hello, world!</Text>
-    </View>
-  );
-};
-
-export default MyComponent;
-\`\`\`
-```js
-this is code block
-```
-
+  
 
 > [!NOTE] THis is Note
 > Contents
