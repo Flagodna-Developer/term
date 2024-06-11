@@ -17,13 +17,20 @@ above is hr
 
 `this is inline code`
 
-\`\`\` js
-//This is a code block woooo
-const cool = () => {
-  console.log('????');
-};
-\`\`\`
+\`\`\`javascript
+import React from 'react';
+import { Text, View } from 'react-native';
 
+const MyComponent = () => {
+  return (
+    <View>
+      <Text>Hello, world!</Text>
+    </View>
+  );
+};
+
+export default MyComponent;
+\`\`\`
 ```js
 this is code block
 ```
