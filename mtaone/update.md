@@ -6,6 +6,29 @@
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
 
+---
+above is hr
+
+| code  | latest |
+| ----- | ------ |
+| what  | fo     |
+| lorem | insum  |
+
+
+`this is inline code`
+
+
+```js
+this is code block
+```
+
+
+> [!NOTE] THis is Note
+> Contents
+
+> inline note
+> this is tooo aofj[as f[asojfas[ ]]]
+
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 As [John Gruber] writes on the [Markdown site][df1]
