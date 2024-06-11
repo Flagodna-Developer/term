@@ -17,6 +17,12 @@ above is hr
 
 `this is inline code`
 
+\`\`\` js
+//This is a code block woooo
+const cool = () => {
+  console.log('????');
+};
+\`\`\`
 
 ```js
 this is code block
