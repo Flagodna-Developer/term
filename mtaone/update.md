@@ -1,8 +1,8 @@
+
+> Perbaikan selanjutnya dipilih dari menu saran perbaikan.
 ## **Versi 1.10.6** 
  
-> Perbaikan selanjutnya dipilih dari menu saran perbaikan.
-
-| saran                         | dari   |
+| PERBAIKAN BERIKUTNYA          | DARI   |
 | ----------------------------- | ------ |
 | Quran dengan Tajweed berwarna | wayang |
 | Notifikasi pada menu Media    | wayang |
