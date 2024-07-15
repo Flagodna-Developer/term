@@ -1,5 +1,5 @@
 
-> Perbaikan selanjutnya dipilih dari menu saran perbaikan.
+> Perbaikan dipilih dari menu saran perbaikan.
 ## **Versi 1.10.6** 
  
 | PERBAIKAN BERIKUTNYA          | DARI   |
