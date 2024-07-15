@@ -1,39 +1,16 @@
-## **Versi 1.10.4**
-
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
-- Lorem Ipsum, Drag and dropDrag and dropDrag and drop
+## **Versi 1.10.6** 
  
-> Perbaikan akan dilakukan secara bertahap, dan menjadi Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
+> Perbaikan selanjutnya dipilih dari menu saran perbaikan.
 
-| code | saran dari              |
+| saran | dari              |
 | ---- | ----------------------- |
-| #242 | fo                      |
-| #243 | Lorem Ipsum             |
-| #242 | Lorem Ipsum             |
-| #242 | Lorem IpsumLorem Ipsum  |
-| #242 | Lorem Ipsum Lorem Ipsum |
-| #242 | Lorem Ipsum             |
-| #242 | Lorem Ipsum             |
-| #242 | Lorem Ipsum             |
-| #242 | Lorem Ipsum             |
-| #242 | Lorem Ipsum Lorem Ipsum |
+| Quran dengan Tajweed berwarna | wayang                      |
+| Notifikasi pada menu Media | wayang             |
+| Lebih banyak stiker | wayang             |
+| Menu Audio (premium) | wayang  |
+| Tafstir Quran (Ibnu katsir) | wayang |
+| Editor photo pada menu Media | wayang             |
+| Upload Audio pada menu Media | wayang             | 
  
 
- Lorem Ipsum Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum Lorem Ipsum Lorem Ipsum [Link Playstore](https://play.google.com/store/apps/details?id=com.flagodna.mtaoneversi2)
+ Link Playstore : [Link Playstore](https://play.google.com/store/apps/details?id=com.flagodna.mtaoneversi2)
