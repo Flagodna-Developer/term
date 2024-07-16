@@ -1,7 +1,7 @@
 
 > Perbaikan dipilih dari menu saran perbaikan.
 > 
-## **Versi 1.10.8** 
+## **Versi 1.10.9** 
 
  
 | PERBAIKAN BERIKUTNYA          | DARI   |
