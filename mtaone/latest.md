@@ -1,4 +1,4 @@
-## **Versi 1.10.18**
+## **Versi 1.10.19**
 
 - Perbaikan Menu beranda
 - Perbaikan Menu Al Quran
