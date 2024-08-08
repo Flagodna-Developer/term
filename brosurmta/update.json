@@ -1,5 +1,6 @@
 {
   "version": "1.15.0",
   "releaseNotes": "Minor updates and improvements.",
-  "minAppVersion": "1.2.3"
+  "minAppVersion": "1.2.3",
+  "uriClick": "https://google.com"
 }
