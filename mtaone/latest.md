@@ -2,7 +2,8 @@
 
 - Perbaikan Menu beranda
 - Perbaikan Menu Al Quran
-- Perbaiakan Fungsi penyimpanan 
+- Penambahan fitur stiker
+- Free user dapat menggunakan fitur dark mode (mode gelap) 
  
 > Kami menyarankan untuk memperbaruinya di playstore
  
